@@ -2,10 +2,10 @@
 const siteMetadata = {
   title: 'Tech Blog',
   author: 'HARI SREE S A',
-  headerTitle: 'THE HARVIS Tech Hub',
-  description: 'FASTEN YOUR SEATBELTS FOR A THRILLING TECJ JOURNEY',
+  headerTitle: 'The Harvis Tech Hub',
+  description: 'FASTEN YOUR SEATBELTS FOR A THRILLING TECH JOURNEY',
   language: 'en-us',
-  theme: 'system', // system, dark or light
+  theme: 'dark', // system, dark or light
   siteUrl: 'https://https://tinkertechhub.com/',
   siteRepo: 'https://github.com/timlrx/tailwind-nextjs-starter-blog',
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
