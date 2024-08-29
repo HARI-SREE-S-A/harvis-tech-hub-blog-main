@@ -7,8 +7,8 @@ interface Project {
 
 const projectsData: Project[] = [
   {
-    title: 'A Search Engine',
-    description: `Add here description`,
+    title: 'Updating Soon',
+    description: `launch Sequence Initiated`,
     imgSrc: '/static/images/google.png',
     href: 'https://www.google.com',
   },
